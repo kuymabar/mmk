@@ -1,13 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&color=F7D21D&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=+++++++++SELAMAT+DATANG+++++++)](https://git.io/typing-svg)
-  DEVELOPER REPOSITY
-
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
 
 # DEVELOPE INFORMATION
-  MY TELEGRAM    @HELLOSALVADORESS
-  MY TESTIMONI    @Brasileiro555
-  CREDITS NAME    ©VENOOFFICIAL
+
 # COMMAND RUN DI TERMINUS
 ```
 
