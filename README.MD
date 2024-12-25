@@ -1,4 +1,4 @@
-<!-- START GLOBAL CORPORATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1500&color=F7C002&center=true&repeat=false&width=450&height=75&lines=SELAMAT+DATANG)](https://git.io/typing-svg)
 <h3 align="center">
   Global Corporation
 
