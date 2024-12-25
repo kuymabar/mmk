@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1500&color=F7C002&center=true&repeat=false&width=450&height=75&lines=SELAMAT+DATANG)](https://git.io/typing-svg)
-<h3 align="center">
-  Global Corporation
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1&color=F7D21D&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&lines=+++++++++SELAMAT+DATANG+++++++)](https://git.io/typing-svg)
+  DEVELOPER REPOSITY
 
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
