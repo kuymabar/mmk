@@ -1,6 +1,6 @@
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
-  Global Corporation
+  WELCOME 
 
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
