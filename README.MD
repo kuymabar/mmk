@@ -1,15 +1,15 @@
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
-  WELCOME 
+  GITHUB && ABOUT 
 
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
 
-# COMMAND RUN RREPOSITY
+# 🪽 CMD RUN UBOT
 ```
 GGGG
 ```
-
+## 📋 CATATAN (NOTE)
 
 
 
