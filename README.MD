@@ -5,11 +5,11 @@
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
 
-# 🪽 CMD RUN UBOT
+## CMD RUN UBOT
 ```
 GGGG
 ```
-## CREDITS 
+## PENO LUCUUU
 > 
   ![](https://github.com/kuymabar/mmk/blob/main/VENO.webp)
 </h3>
