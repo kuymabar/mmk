@@ -11,10 +11,8 @@ GGGG
 ```
 ## CREDITS 
 > 
-NAME DEVELOPER : VENO OFFICIAL
-TELEGRAM DEV   : t.me/pakveno
-TESTIMONI DEV  : t.me/Brasileiro555
->
+  ![](https://github.com/kuymabar/mmk/blob/main/VENO.webp)
+</h3>
 
 
 
