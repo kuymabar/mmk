@@ -1,6 +1,6 @@
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
-  🜲 𝖸𝖮𝖴𝖱  𝖦𝖨𝖳𝖧𝖴𝖡 📂
+  𖥻 𝗩𝗘𝗡𝗢 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𖦏
 
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
