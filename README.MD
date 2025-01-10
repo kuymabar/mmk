@@ -9,14 +9,3 @@
 ```
 GGGG
 ```
-## PENO LUCUUU
-> 
-  ![](https://github.com/kuymabar/mmk/blob/main/VENO.webp)
-</h3>
-
-
-
-
-
-
-
