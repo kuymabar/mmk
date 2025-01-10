@@ -5,7 +5,7 @@
   ![](https://github.com/kuymabar/mmk/blob/main/20241225_234731.png)
 </h3>
 
-## CMD RUN UBOT
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1500&color=F7C002&center=true&repeat=false&width=450&height=75&lines=+COMMAND+DEPLOY+VPS)](https://git.io/typing-svg)
 ```
 GGGG
 ```
